@@ -1,0 +1,17 @@
+{
+<<<<<<< HEAD
+  "id": "0a800f94448446b49dab16b7a682ce20",
+  "scene": "house",
+  "dateTime": "2024-11-02 21:19:18",
+  "timePlayed": 48.92224,
+  "saveType": 2,
+=======
+  "id": "9a830bb124044633ba47c5d68a320f46",
+  "scene": "Main",
+  "dateTime": "2024-10-29 18:19:54",
+  "timePlayed": 31.3714867,
+  "saveType": 0,
+>>>>>>> 6963fc4c4cc427c98429fee95e30b86e604ba2e7
+  "data": "Data.bin",
+  "thumbnail": "Thumbnail.png"
+}
